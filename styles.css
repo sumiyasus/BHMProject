@@ -30,7 +30,7 @@ img {
 }
 
 footer {
-background: linear-gradient(135deg, #0000009d 0%, #2a62b6, #00000093 100%);
+background: linear-gradient(135deg, #00000000 0%, #2a62b6ef 50%, #00000000 100%);
 display: flex;
 justify-content: center;
 align-items: center;
